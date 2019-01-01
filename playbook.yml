@@ -1,3 +1,11 @@
+#!/usr/bin/env ansible-playbook
+#=================================================
+#  Author: Anthony
+#  Description: Install php7.3, python, and docker 
+#  on Centos 7
+#  Note: Modify the hosts target as needed.
+#
+#=================================================
 ---
 - hosts: all
   become: true
