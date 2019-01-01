@@ -1,0 +1,32 @@
+---
+- hosts: all
+  become: true
+  tasks:
+    - name: Install requirements for php 7
+      yum:
+        name:
+        - libselinux-python
+        - epel-release
+
+    - name: Install the remi and ius repo from remote repo
+      yum:
+        name:
+        - "http://rpms.remirepo.net/enterprise/remi-release-{{ ansible_distribution_major_version }}.rpm"
+        - "https://centos{{ ansible_distribution_major_version }}.iuscommunity.org/ius-release.rpm"
+    
+    - name: Upgrade all packages
+      yum:
+        name: "*"
+        state: latest
+      tags: skip_ansible_lint
+   
+    - name: Install required packages through yum
+      yum:
+        name: "{{item}}"
+        state: latest
+        update_cache: yes
+        enablerepo: ius
+      loop:
+        - docker
+        - python
+        - php73-php-cli

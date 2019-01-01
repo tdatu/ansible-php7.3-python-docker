@@ -1,0 +1,175 @@
+php73.x86_64 : Package that installs PHP 7.3
+php73-build.x86_64 : Package shipping basic build configuration
+php73-php.x86_64 : PHP scripting language for creating dynamic web sites
+php73-php-ast.x86_64 : Abstract Syntax Tree
+php73-php-bcmath.x86_64 : A module for PHP applications for using the bcmath library
+php73-php-brotli.x86_64 : Brotli Extension for PHP
+php73-php-cli.x86_64 : Command-line interface for PHP
+php73-php-common.x86_64 : Common files for PHP
+php73-php-componere.x86_64 : Composing PHP classes at runtime
+php73-php-dba.x86_64 : A database abstraction layer module for PHP applications
+php73-php-dbg.x86_64 : The interactive PHP debugger
+php73-php-devel.x86_64 : Files needed for building PHP extensions
+php73-php-embedded.x86_64 : PHP library for embedding in applications
+php73-php-enchant.x86_64 : Enchant spelling extension for PHP applications
+php73-php-fpm.x86_64 : PHP FastCGI Process Manager
+php73-php-gd.x86_64 : A module for PHP applications for using the gd graphics library
+php73-php-geos.x86_64 : PHP module for GEOS
+php73-php-gmp.x86_64 : A module for PHP applications for using the GNU MP library
+php73-php-horde-horde-lz4.x86_64 : Horde LZ4 Compression Extension
+php73-php-imap.x86_64 : A module for PHP applications that use IMAP
+php73-php-interbase.x86_64 : A module for PHP applications that use Interbase/Firebird databases
+php73-php-intl.x86_64 : Internationalization extension for PHP applications
+php73-php-ioncube-loader.x86_64 : Loader for ionCube Encoded Files with ionCube 24 support
+php73-php-json.x86_64 : JavaScript Object Notation extension for PHP
+php73-php-ldap.x86_64 : A module for PHP applications that use LDAP
+php73-php-libvirt.x86_64 : PHP language binding for Libvirt
+php73-php-libvirt-doc.noarch : Document of php-libvirt
+php73-php-litespeed.x86_64 : LiteSpeed Web Server PHP support
+php73-php-lz4.x86_64 : LZ4 Extension for PHP
+php73-php-maxminddb.x86_64 : MaxMind DB Reader extension
+php73-php-mbstring.x86_64 : A module for PHP applications which need multi-byte string handling
+php73-php-mysqlnd.x86_64 : A module for PHP applications that use MySQL databases
+php73-php-oci8.x86_64 : A module for PHP applications that use OCI8 databases
+php73-php-odbc.x86_64 : A module for PHP applications that use ODBC databases
+php73-php-opcache.x86_64 : The Zend OPcache
+php73-php-pdo.x86_64 : A database access abstraction module for PHP applications
+php73-php-pdo-dblib.x86_64 : PDO driver Microsoft SQL Server and Sybase databases
+php73-php-pear.noarch : PHP Extension and Application Repository framework
+php73-php-pecl-ahocorasick.x86_64 : Effective Aho-Corasick string pattern matching algorithm
+php73-php-pecl-amqp.x86_64 : Communicate with any AMQP compliant server
+php73-php-pecl-apcu.x86_64 : APC User Cache
+php73-php-pecl-apcu-bc.x86_64 : APCu Backwards Compatibility Module
+php73-php-pecl-apcu-devel.x86_64 : APCu developer files (header)
+php73-php-pecl-apfd.x86_64 : Always Populate Form Data
+php73-php-pecl-bitset.x86_64 : BITSET library
+php73-php-pecl-cassandra.x86_64 : DataStax PHP Driver for Apache Cassandra
+php73-php-pecl-cmark.x86_64 : CommonMark extension
+php73-php-pecl-couchbase2.x86_64 : Couchbase Server PHP extension
+php73-php-pecl-crypto.x86_64 : Wrapper for OpenSSL Crypto Library
+php73-php-pecl-dbase.x86_64 : dBase database file access functions
+php73-php-pecl-decimal.x86_64 : Arbitrary-precision floating-point decimal
+php73-php-pecl-dio.x86_64 : Direct I/O functions
+php73-php-pecl-druid.x86_64 : A Druid driver for PHP
+php73-php-pecl-ds.x86_64 : Data Structures for PHP
+php73-php-pecl-eio.x86_64 : Provides interface to the libeio library
+php73-php-pecl-env.x86_64 : Load environment variables
+php73-php-pecl-event.x86_64 : Provides interface to libevent library
+php73-php-pecl-fann.x86_64 : Wrapper for FANN Library
+php73-php-pecl-gearman.x86_64 : PHP wrapper to libgearman
+php73-php-pecl-gender.x86_64 : Gender Extension
+php73-php-pecl-geoip.x86_64 : Extension to map IP addresses to geographic places
+php73-php-pecl-geospatial.x86_64 : PHP Extension to handle common geospatial functions
+php73-php-pecl-gmagick.x86_64 : Provides a wrapper to the GraphicsMagick library
+php73-php-pecl-gnupg.x86_64 : Wrapper around the gpgme library
+php73-php-pecl-grpc.x86_64 : General RPC framework
+php73-php-pecl-handlebars.x86_64 : Handlebars templating language
+php73-php-pecl-hdr-histogram.x86_64 : PHP extension wrapper for the C hdrhistogram API
+php73-php-pecl-hprose.x86_64 : Hprose for PHP
+php73-php-pecl-hrtime.x86_64 : High resolution timing
+php73-php-pecl-http.x86_64 : Extended HTTP support
+php73-php-pecl-http-devel.x86_64 : Extended HTTP support developer files (header)
+php73-php-pecl-igbinary.x86_64 : Replacement for the standard PHP serializer
+php73-php-pecl-igbinary-devel.x86_64 : Igbinary developer files (header)
+php73-php-pecl-imagick.x86_64 : Extension to create and modify images using ImageMagick
+php73-php-pecl-imagick-devel.x86_64 : imagick extension developer files (header)
+php73-php-pecl-inotify.x86_64 : Inotify
+php73-php-pecl-ip2location.x86_64 : Get geo location information of an IP address
+php73-php-pecl-json-post.x86_64 : JSON POST handler
+php73-php-pecl-krb5.x86_64 : Kerberos authentification extension
+php73-php-pecl-krb5-devel.x86_64 : Kerberos extension developer files (header)
+php73-php-pecl-leveldb.x86_64 : LevelDB PHP bindings
+php73-php-pecl-lua.x86_64 : Embedded lua interpreter
+php73-php-pecl-luasandbox.x86_64 : Lua interpreter with limits and safe environment
+php73-php-pecl-lzf.x86_64 : Extension to handle LZF de/compression
+php73-php-pecl-mailparse.x86_64 : PHP PECL package for parsing and working with email messages
+php73-php-pecl-mcrypt.x86_64 : Bindings for the libmcrypt library
+php73-php-pecl-memcache.x86_64 : Extension to work with the Memcached caching daemon
+php73-php-pecl-memcached.x86_64 : Extension to work with the Memcached caching daemon
+php73-php-pecl-memprof.x86_64 : Memory usage profiler
+php73-php-pecl-mogilefs.x86_64 : PHP client library to communicate with the MogileFS storage
+php73-php-pecl-molten.x86_64 : Extension for application tracing
+php73-php-pecl-mongodb.x86_64 : MongoDB driver for PHP
+php73-php-pecl-mosquitto.x86_64 : Extension for libmosquitto
+php73-php-pecl-msgpack.x86_64 : API for communicating with MessagePack serialization
+php73-php-pecl-msgpack-devel.x86_64 : MessagePack developer files (header)
+php73-php-pecl-mustache.x86_64 : Mustache templating language
+php73-php-pecl-mysql.x86_64 : MySQL database access functions
+php73-php-pecl-mysql-xdevapi.x86_64 : MySQL database access functions
+php73-php-pecl-nsq.x86_64 : PHP extension for NSQ client
+php73-php-pecl-oauth.x86_64 : PHP OAuth consumer extension
+php73-php-pecl-oci8.x86_64 : Extension for Oracle Database
+php73-php-pecl-opencensus.x86_64 : A stats collection and distributed tracing framework
+php73-php-pecl-parle.x86_64 : Parsing and lexing
+php73-php-pecl-pdflib.x86_64 : Package for generating PDF files
+php73-php-pecl-pq.x86_64 : PostgreSQL client library (libpq) binding
+php73-php-pecl-propro.x86_64 : Property proxy
+php73-php-pecl-psr.x86_64 : PSR interfaces
+php73-php-pecl-radius.x86_64 : Radius client library
+php73-php-pecl-raphf.x86_64 : Resource and persistent handles factory
+php73-php-pecl-rar.x86_64 : PHP extension for reading RAR archives
+php73-php-pecl-rdkafka.x86_64 : Kafka client based on librdkafka
+php73-php-pecl-redis4.x86_64 : Extension for communicating with the Redis key-value store
+php73-php-pecl-request.x86_64 : Server-side request and response objects
+php73-php-pecl-rpminfo.x86_64 : RPM information
+php73-php-pecl-rrd.x86_64 : PHP Bindings for rrdtool
+php73-php-pecl-scrypt.x86_64 : Scrypt hashing function
+php73-php-pecl-seaslog.x86_64 : An effective, fast, stable log extension for PHP
+php73-php-pecl-selinux.x86_64 : SELinux binding for PHP scripting language
+php73-php-pecl-solr2.x86_64 : API orientée objet pour Apache Solr
+php73-php-pecl-sphinx.x86_64 : PECL extension for Sphinx SQL full-text search engine
+php73-php-pecl-ssdeep.x86_64 : Wrapper for libfuzzy library
+php73-php-pecl-ssh2.x86_64 : Bindings for the libssh2 library
+php73-php-pecl-stats.x86_64 : Routines for statistical computation
+php73-php-pecl-stomp.x86_64 : Stomp client extension
+php73-php-pecl-svm.x86_64 : Support Vector Machine Library
+php73-php-pecl-swoole4.x86_64 : PHP's asynchronous concurrent distributed networking framework
+php73-php-pecl-sync.x86_64 : Named and unnamed synchronization objects
+php73-php-pecl-taint.x86_64 : XSS code sniffer
+php73-php-pecl-tcpwrap.x86_64 : Tcpwrappers binding
+php73-php-pecl-termbox.x86_64 : A termbox wrapper for PHP
+php73-php-pecl-timecop.x86_64 : Time travel and freezing extension
+php73-php-pecl-trace.x86_64 : Trace is a low-overhead tracing tool for PHP
+php73-php-pecl-trader.x86_64 : Technical Analysis for traders
+php73-php-pecl-uploadprogress.x86_64 : An extension to track progress of a file upload
+php73-php-pecl-uuid.x86_64 : Universally Unique Identifier extension for PHP
+php73-php-pecl-uv.x86_64 : Libuv wrapper
+php73-php-pecl-varnish.x86_64 : Varnish Cache bindings
+php73-php-pecl-vips.x86_64 : PHP extension for interfacing with libvips
+php73-php-pecl-vld.x86_64 : Dump the internal representation of PHP scripts
+php73-php-pecl-xattr.x86_64 : Extended attributes
+php73-php-pecl-xdebug.x86_64 : PECL package for debugging PHP scripts
+php73-php-pecl-xdiff.x86_64 : File differences/patches
+php73-php-pecl-xlswriter.x86_64 : An efficient and fast xlsx file export extension
+php73-php-pecl-xmldiff.x86_64 : XML diff and merge
+php73-php-pecl-xxtea.x86_64 : XXTEA encryption algorithm extension for PHP
+php73-php-pecl-yac.x86_64 : Lockless user data cache
+php73-php-pecl-yaconf.x86_64 : Yet Another Configurations Container
+php73-php-pecl-yaf.x86_64 : Yet Another Framework
+php73-php-pecl-yaml.x86_64 : PHP Bindings for yaml
+php73-php-pecl-yar.x86_64 : Light, concurrent RPC framework
+php73-php-pecl-yaz.x86_64 : Z39.50/SRU client
+php73-php-pecl-zip.x86_64 : Une extension de gestion des ZIP
+php73-php-pecl-zmq.x86_64 : ZeroMQ messaging
+php73-php-pggi.x86_64 : GTK bindings
+php73-php-pgsql.x86_64 : A PostgreSQL database module for PHP
+php73-php-phalcon3.x86_64 : Phalcon Framework
+php73-php-phpiredis.x86_64 : Client extension for Redis
+php73-php-pinba.x86_64 : Client extension for Pinba statistics server
+php73-php-process.x86_64 : Modules for PHP script using system process interfaces
+php73-php-pspell.x86_64 : A module for PHP applications for using pspell interfaces
+php73-php-recode.x86_64 : A module for PHP applications for using the recode library
+php73-php-smbclient.x86_64 : PHP wrapper for libsmbclient
+php73-php-snappy.x86_64 : Snappy Extension for PHP
+php73-php-snmp.x86_64 : A module for PHP applications that query SNMP-managed devices
+php73-php-soap.x86_64 : A module for PHP applications that use the SOAP protocol
+php73-php-sodium.x86_64 : Wrapper for the Sodium cryptographic library
+php73-php-sqlsrv.x86_64 : Microsoft Drivers for PHP for SQL Server
+php73-php-tidy.x86_64 : Standard PHP module provides tidy library support
+php73-php-wkhtmltox.x86_64 : HTML Converter
+php73-php-xml.x86_64 : A module for PHP applications which use XML
+php73-php-xmlrpc.x86_64 : A module for PHP applications which use the XML-RPC protocol
+php73-php-zephir-parser.x86_64 : Zephir parser extension
+php73-php-zstd.x86_64 : Zstd Extension for PHP
+php73-uwsgi-plugin-php.x86_64 : uWSGI - Plugin for PHP support
+php73-zephir.noarch : Zephir language for creation of extensions for PHP.
